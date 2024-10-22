@@ -565,3 +565,4 @@ EOF
 
 terraform init
 terraform apply --auto-approve
+echo "You have completed Challenging Lab successfully"
