@@ -1,0 +1,11 @@
+export BUCKET_NAME=
+
+export INSTANCE_NAME=
+
+export VPC_NAME=
+
+export ZONE=
+
+curl -LO https://raw.githubusercontent.com/chaitanyahonnuru/Build-Infrastructure-with-Terraform-on-Google-Cloud-Challenge-Lab/refs/heads/main/BIWTOGC.sh
+sudo chmod +x BIWTOGC.sh
+./BIWTOGC.sh
